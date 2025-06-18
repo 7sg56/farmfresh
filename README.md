@@ -33,7 +33,4 @@ A modern web application to connect consumers directly with local farmers for fr
 
 Made with ❤️ for local farmers and fresh food lovers.
 
----
-
-Made with ❤️ for local farmers and fresh food lovers.
 
