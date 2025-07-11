@@ -2,6 +2,11 @@
 
 A modern web application to connect consumers directly with local farmers for fresh produce.
 
+## 🚀 Live Preview
+
+[![Live](https://img.shields.io/badge/View%20Live-FarmFresh-00c853?style=for-the-badge&logo=vercel&logoColor=white)](https://farmfresh-hhf3pomb2-sourish-ghoshs-projects.vercel.app)
+
+
 ## Features
 
 - Browse and shop fresh produce directly from local farms
